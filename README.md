@@ -1,3 +1,3 @@
 # Hotel-Website
 
-Basic surface Hotel Website template
+Hotel Website template with basic interface 
